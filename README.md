@@ -3,6 +3,8 @@ An archived version of the first website I ever built with my Dad in the year 19
 
 The only changes made to the codebase are related to the email addresses as they no longer belonged to me.
 
+[**You can view the website here**](http://tooncrazy.co.uk/).
+
 ## Notes 📎
 * Includes `<marquee>` tags, [which are now obsolete](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee).
 * `<applet>` tags used to be a way to embed Java applets into HTML documents, they are also [now obsolete](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/applet).
