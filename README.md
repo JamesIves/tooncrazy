@@ -12,3 +12,5 @@ The only changes made to the codebase are related to the email addresses as they
 
 ## Dedicated to Dad ☕️
 I owe a lot to my Dad, and not a day goes by where I don't miss him. Thank you for everything.
+
+![Screenshot](screenshot.png)
