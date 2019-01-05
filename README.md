@@ -1,4 +1,6 @@
 # Tooncrazy 📼
+[![View Application](https://img.shields.io/badge/view-application-blue.svg)](https://tooncrazy.co.uk)
+
 An archived version of the first website I ever built with my Dad in the year 1999 with [Microsoft Frontpage](https://en.wikipedia.org/wiki/Microsoft_FrontPage). The website served as a cartoon fansite, and eventually provided [Cartoon Orbit](https://en.wikipedia.org/wiki/Cartoon_Orbit) codes to other collectors in the year 2000.
 
 The only changes made to the codebase are related to the email addresses as they no longer belonged to me.
